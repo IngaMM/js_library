@@ -1,0 +1,27 @@
+.formContainer {
+  position: relative;
+  width: 700px;
+  margin-top: 10px;
+}
+
+#title,
+#author {
+  position: absolute;
+  right: 10px;
+  width: 500px;
+}
+
+#pages {
+  position: absolute;
+  right: 460px;
+  width: 50px;
+}
+
+#read_true {
+  margin-right: 15px;
+}
+
+#addNewBook2 {
+  margin-top: 10px;
+  font-size: 15px;
+}

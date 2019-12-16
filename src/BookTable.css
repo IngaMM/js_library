@@ -1,0 +1,12 @@
+.tableHeader {
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid orange;
+}
